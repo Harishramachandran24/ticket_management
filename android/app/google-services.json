@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "658563048678",
+    "firebase_url": "https://ticketmanagement-37f4b-default-rtdb.firebaseio.com",
+    "project_id": "ticketmanagement-37f4b",
+    "storage_bucket": "ticketmanagement-37f4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658563048678:android:3c1a7212a65619021cc727",
+        "android_client_info": {
+          "package_name": "com.example.ticket_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658563048678-2jh878m8pskejpvdrcjp4nlao9gs7p8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticket_management",
+            "certificate_hash": "f6ea86775f31f129d8b5bbeacde148cd30faec7c"
+          }
+        },
+        {
+          "client_id": "658563048678-7pv63c75992ho463b7qmi4bvva15hkn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticket_management",
+            "certificate_hash": "9819e4584cf3cc072f5fe128eebe2ef297e3a486"
+          }
+        },
+        {
+          "client_id": "658563048678-65bgk1c2jb893dpf3oqn6vvi7f39leib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmF2UoCKG39d-1GsdpIa3IbQSZG4jB6Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658563048678-65bgk1c2jb893dpf3oqn6vvi7f39leib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
